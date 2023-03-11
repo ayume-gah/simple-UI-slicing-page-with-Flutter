@@ -1,4 +1,4 @@
-# ft_level1_tugas1
+# simple UI slicing page with Flutter
 
 A new Flutter project.
 
