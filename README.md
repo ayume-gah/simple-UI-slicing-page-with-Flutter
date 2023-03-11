@@ -1,6 +1,6 @@
 # simple UI slicing page with Flutter
 
-A new Flutter project.
+hasil tampilan => hello_world.png
 
 ## Getting Started
 
